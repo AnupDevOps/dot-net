@@ -1,0 +1,5 @@
+/home/ec2-user/dotnet/dot-net/App/bin/Release/net8.0/publish/DotNet.Docker
+/home/ec2-user/dotnet/dot-net/App/bin/Release/net8.0/publish/DotNet.Docker.dll
+/home/ec2-user/dotnet/dot-net/App/bin/Release/net8.0/publish/DotNet.Docker.deps.json
+/home/ec2-user/dotnet/dot-net/App/bin/Release/net8.0/publish/DotNet.Docker.runtimeconfig.json
+/home/ec2-user/dotnet/dot-net/App/bin/Release/net8.0/publish/DotNet.Docker.pdb

@@ -1,0 +1,15 @@
+/home/ec2-user/dotnet/dot-net/App/bin/Debug/net8.0/DotNet.Docker
+/home/ec2-user/dotnet/dot-net/App/bin/Debug/net8.0/DotNet.Docker.deps.json
+/home/ec2-user/dotnet/dot-net/App/bin/Debug/net8.0/DotNet.Docker.runtimeconfig.json
+/home/ec2-user/dotnet/dot-net/App/bin/Debug/net8.0/DotNet.Docker.dll
+/home/ec2-user/dotnet/dot-net/App/bin/Debug/net8.0/DotNet.Docker.pdb
+/home/ec2-user/dotnet/dot-net/App/obj/Debug/net8.0/DotNet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+/home/ec2-user/dotnet/dot-net/App/obj/Debug/net8.0/DotNet.Docker.AssemblyInfoInputs.cache
+/home/ec2-user/dotnet/dot-net/App/obj/Debug/net8.0/DotNet.Docker.AssemblyInfo.cs
+/home/ec2-user/dotnet/dot-net/App/obj/Debug/net8.0/DotNet.Docker.csproj.CoreCompileInputs.cache
+/home/ec2-user/dotnet/dot-net/App/obj/Debug/net8.0/DotNet.Docker.sourcelink.json
+/home/ec2-user/dotnet/dot-net/App/obj/Debug/net8.0/DotNet.Docker.dll
+/home/ec2-user/dotnet/dot-net/App/obj/Debug/net8.0/refint/DotNet.Docker.dll
+/home/ec2-user/dotnet/dot-net/App/obj/Debug/net8.0/DotNet.Docker.pdb
+/home/ec2-user/dotnet/dot-net/App/obj/Debug/net8.0/DotNet.Docker.genruntimeconfig.cache
+/home/ec2-user/dotnet/dot-net/App/obj/Debug/net8.0/ref/DotNet.Docker.dll
